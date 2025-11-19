@@ -1,0 +1,7 @@
+{
+  "name": "Salah Foods AI",
+  "description": "A powerful AI tool to analyze food and cosmetic ingredients from images, identifying potential health risks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
